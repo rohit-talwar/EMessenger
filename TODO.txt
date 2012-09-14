@@ -1,0 +1,8 @@
+--------------------------
+	   TODO
+--------------------------
+
+thre class is taking in 
+previous messages.
+
+Password needs to be taken securely.
